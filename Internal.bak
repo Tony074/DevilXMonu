@@ -1,0 +1,16 @@
+UPSTREAM_REPO=https://github.com/Tony074/DevilXMonu
+UPSTREAM_BRANCH=monu
+AUTO_DOWNLOADS_CLEAR=True
+API_ID=
+API_HASH=
+BOT_TOKEN=
+MONGO_DB_URI=mongodb+srv://monu:monugupta@cluster0.uykbgnc.mongodb.net/?retryWrites=true&w=majority
+OWNER_ID=1651859190
+DURATION_LIMIT=1200
+LOG_GROUP_ID=
+MUSIC_BOT_NAME=BGT MUSIC BOT
+STRING_SESSION=
+SUPPORT_CHANNEL=https://t.me/About_Info_Devil
+SUPPORT_GROUP=https://t.me/About_Info_Devil
+
+
